@@ -3,8 +3,13 @@
   font-family: Helvetica;
 }
 
-.banner #newYork {
-  background-image: url("./resources/images/the-flatiron-building.jpg");
+header {
+  background-image: url("../images/the-flatiron-building.jpg");
+}
+
+a {
+  font-size: 18px;
+  color: white;
 }
 
 h1 {
@@ -26,8 +31,8 @@ h2 {
   font-size: 14px;
 }
 
-.nav {
-  font-size: 18px;
+#newYork {
+  background-image: url("../images/the-flatiron-building.jpg");
   color: white;
 }
 
